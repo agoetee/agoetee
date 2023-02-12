@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agoetee
 - 👀 I’m interested in backend dev
 - 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python frameworks
 - 📫 How to reach me agoetee@gmail.com
 
 <!---
