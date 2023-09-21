@@ -1,8 +1,14 @@
+# :construction_worker_man: About Me:
+
 - 👋 Hi, I’m @agoetee
 - 👀 I’m interested in backend dev
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on python frameworks
 - 📫 How to reach me agoetee@gmail.com
+
+# :earth_africa:  Socials:
+
+
 
 <!---
 agoetee/agoetee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
