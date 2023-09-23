@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on python frameworks
 - 📫 How to reach me agoetee@gmail.com
 
-# :earth_africa:  Socials:
+## Tech Stacks
+
+## :earth_africa:  Socials:
 
 
 
