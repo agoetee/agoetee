@@ -21,5 +21,5 @@ Feel free to explore my repositories to see some of the projects I've worked on.
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json) -->
 ## :earth_africa:  Socials:
-> This Section Under Sonstruciton
+> This Section Under Construciton
 
