@@ -15,11 +15,16 @@
 ![Linux](https://img.shields.io/badge/Linux-Open%20Source-green?logo=linux&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Programming%20Language-yellow?logo=python&style=for-the-badge)
 
-Feel free to explore my repositories to see some of the projects I've worked on. If you have any questions or want to collaborate, don't hesitate to reach out to me!
+## :repeat:  CI/CD Tools
+
+<img src="/assets/jenkins-icon.svg" alt="Jenkins" width="80" height="70"> <img src="/assets/github-actions.png" alt="Github Actions" width="80" height="70">
+
 
 <!-- ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json) -->
 ## :earth_africa:  Socials:
-> This Section Under Construciton
+<img src="/assets/facebook.svg" alt="facebook Icon" width="100" height="80">
+
+> This Section is under Construciton
 
