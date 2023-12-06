@@ -24,7 +24,6 @@
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json) -->
 ## :earth_africa:  Socials:
-<img src="/assets/facebook.svg" alt="facebook Icon" width="100" height="80">
+<img src="/assets/facebook.svg" alt="facebook Icon" width="100" height="80"> <img src="/assets/icons8-linkedin-96.svg" alt="facebook Icon" width="100" height="80">
 
-> This Section is under Construciton
 
